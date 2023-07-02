@@ -1,4 +1,4 @@
-<h1 align="center"> Saga Dragon Ball </h1>
+<h1 align="center"> Saga Dragon Ball (Contém Spoiler) </h1>
 
 <p align="center">
 Modelo de site utilizando Efeito Parallax no CSS. <br/>
